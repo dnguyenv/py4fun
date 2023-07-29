@@ -1,0 +1,17 @@
+{
+  "firstName": "Duy",
+  "lastName": "Nguyen",
+  "hobbies": ["running","swimming","playing guitar"],
+  "age": 43,
+  "hasChildren": true,
+  "children": [
+    {
+      "firstName": "An",
+      "age": 13
+    },
+    {
+      "firstName": "Tam",
+      "age": 10
+    }
+  ]
+}
